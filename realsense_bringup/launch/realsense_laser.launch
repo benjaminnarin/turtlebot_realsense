@@ -1,0 +1,3 @@
+<include file="$(find package_name)/directory/another.launch"/>
+
+
